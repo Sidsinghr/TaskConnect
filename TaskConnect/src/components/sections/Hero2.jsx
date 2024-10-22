@@ -107,7 +107,7 @@ export default function Hero2() {
             fontWeight={600}
           fontSize={{ base: '1.5rem', sm: '2xl', md: '2xl' }}
           >
-            Welcome Prathyush Kode 
+            Welcome Siddhant Singh 
           </Text>
           
           
