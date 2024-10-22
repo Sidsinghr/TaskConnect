@@ -39,6 +39,13 @@ To run the TaskConnect web app locally, follow these steps:
 
 *Note: Ensure you have Node.js and npm installed on your machine.*
 
+## Screenshots
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/f5d456b1-5cc2-413f-a5f2-f77989a670ff">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/0ad39b4e-ff97-414e-b163-015dc17706ef">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/1fd6ee57-cb04-435e-9729-c52d064e9410">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/5d3886f9-3f54-4124-ba7f-3ea17594625d">
+<img width="1284" alt="image" src="https://github.com/user-attachments/assets/06835532-cc3c-4382-a356-d2f19d383d22">
+
 ## Technologies Used
 - **Chakra UI**: A simple and modular UI component library for React.
 - **Firebase**: A comprehensive platform providing tools and services for web and mobile application development.
